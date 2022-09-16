@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Layla override
+  m_Controller: {fileID: 9100000, guid: 9c58873891cf9064493e2453c0d30fa4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 150daa8db61806e43b36174bcb3d9e59, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 25e608b8bd8165d44bc68b39dee38f99, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9c28b5a2c796fcf40813a74f167115b1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 509215b15a7c8404fb4b32e62e8c0daa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 82f739e2c5db2d34bb9e937dffa9d085, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 30f6827b6c9d7ad4cb8aa18b0b558424, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fdf6756a2b6f4eb4aa1bd7164a9ae9cb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7b4b70a9cce8cb6469e3cc2974c47a70, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bd8119eb5bfa85849be78a2dc446b25f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 882e4a4324fbf2f4998de4edc37b5d47, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2d590c8f77e98084ea6124fe044b0a64, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d5a825ef706999147a56220e404cc7c6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0dd8d948ad30caf4b81657bfccec2b90, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f571e3b855440634f965afade470e3b1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2f990b030f988c5489548ce277c5c0c3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0ff368535d7a82d45b693685ab8cfcce, type: 2}
